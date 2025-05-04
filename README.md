@@ -1,6 +1,6 @@
 # Finance Dashboard Visualization
 
-![Finance Dashboard](https://github.com/Yossefmohammed/finance_dashbord/blob/main/Finance%20power%20bi.png)
+![Finance Dashboard](https://github.com/Yossefmohammed/finance_dashbord/blob/main/finance%20dashborad.png,https://github.com/Yossefmohammed/finance_dashbord/blob/main/finance%20dashbord.png)
 
 ## Overview
 This Power BI dashboard provides a comprehensive financial analysis platform, offering detailed insights into financial performance, trends, and key metrics for informed decision-making.
